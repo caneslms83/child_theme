@@ -1,0 +1,27 @@
+/*
+
+Theme name:Popper Child Theme
+Theme URI: http://lynda.com/mor10
+Description: A child theme of Morten's Popper Theme
+Author: Luis Salazar
+Template: Popper
+Version: 0.1.0
+*/
+
+@import url("../popper/style.css");
+
+body {
+  background-color: green;
+}
+.site-title {
+  font-weight: 100;
+}
+.site-description {
+  font-style: italic;
+}
+
+.site-content {
+    font-size: 1.125em;
+    line-height: 1.6em;
+    background-color: aqua;
+  }
